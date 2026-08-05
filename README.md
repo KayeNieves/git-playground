@@ -9,3 +9,4 @@ This repository is set up to practice Git, GitHub, and VS Code workflows.
 - Use `git push origin main` to send changes to GitHub.
 - Use `git pull origin main` to update from GitHub.
 Test 
+Changing/ adding/ Trial
