@@ -1,8 +1,10 @@
 ## Repository-3
+
 ## Activity 3
+
 # git-playground
 
-This repository is set up to practice Git, GitHub, and VS Code workflows.
+Used my existing repository to practice. This repository is set up to practice Git, GitHub, and VS Code workflows.
 
 ## Setup
 
